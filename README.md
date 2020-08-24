@@ -9,4 +9,16 @@ Professor da área de tecnologia da informação, atuando em duas área, redes d
 [![Github Badge](https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=CodePen&logoColor=white)](https://CodePen.com/fernandoleonid)
 
 
-🚀 Javascript | NodeJS | PHP | SQL | HTML | CSS | GIT | CISCO | LINUX | AWS
+![Fernando Leonid github stats](https://github-readme-stats.vercel.app/api?username=fernandoleonid&show_icons=true&theme=radical)
+
+
+### 🚀 Javascript | NodeJS | PHP | SQL | HTML | CSS | GIT | CISCO | LINUX | AWS
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoleonid)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 💡 Dica para treinar lógica de programação
+
+- [Hackerrank](https://www.hackerrank.com/)
+- [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
