@@ -9,9 +9,6 @@ Professor da área de tecnologia da informação, atuando em duas área, redes d
 [![Github Badge](https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=CodePen&logoColor=white)](https://CodePen.com/fernandoleonid)
 
 
-![Fernando Leonid github stats](https://github-readme-stats.vercel.app/api?username=fernandoleonid&show_icons=true&theme=radical)
-
-
 ### 🚀 Javascript | NodeJS | PHP | SQL | HTML | CSS | GIT | CISCO | LINUX | AWS
 
 
