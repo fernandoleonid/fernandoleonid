@@ -11,8 +11,9 @@ Professor da área de tecnologia da informação, atuando em duas área, redes d
 
 ### 🚀 Javascript | NodeJS | PHP | SQL | HTML | CSS | GIT | CISCO | LINUX | AWS
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoleonid)](https://github.com/anuraghazra/github-readme-stats)
+### GITHUB
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fernandoleonid&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoleonid&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 💡 Dica para treinar lógica de programação
