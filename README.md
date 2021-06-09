@@ -27,3 +27,5 @@ Professor da área de tecnologia da informação, atuando em duas área, redes d
 
 - [Hackerrank](https://www.hackerrank.com/)
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
+- [LeetCode](https://leetcode.com/)
+- [CodeWars](https://www.codewars.com/)
