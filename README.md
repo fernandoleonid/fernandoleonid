@@ -22,11 +22,20 @@ Professor da área de tecnologia da informação, atuando em duas área, redes d
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=fernandoleonid&theme=dark&background=20232a&ring=61dafb&fire=61dafb&currStreakLabel=61dafb)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandoleonid&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## 📚 Aulas
-[![Aulas](https://img.shields.io/badge/ver%20repositórios-aulas-blue?style=flat-square&logo=github)](https://github.com/fernandoleonid?tab=repositories&q=aulas)
-
 ## 🎥 YouTube
-[![YouTube](https://img.shields.io/badge/ver%20repositórios-youtube-red?style=flat-square&logo=github)](https://github.com/fernandoleonid?tab=repositories&q=youtube)
+[![yt](https://img.shields.io/badge/ver%20repositórios-yt-red?style=flat-square&logo=github)](https://github.com/fernandoleonid?tab=repositories&q=yt)
+
+## 📚 Aulas SENAI
+
+**Desenvolvimento de Sistemas 2025 — 1º Semestre**
+
+[![manhã](https://img.shields.io/badge/ver%20repositórios-DS%202025%2F1%20manhã-blue?style=flat-square&logo=github)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-1-m)
+[![tarde](https://img.shields.io/badge/ver%20repositórios-DS%202025%2F1%20tarde-blue?style=flat-square&logo=github)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-1-t)
+
+**Desenvolvimento de Sistemas 2025 — 2º Semestre**
+
+[![manhã](https://img.shields.io/badge/ver%20repositórios-DS%202025%2F2%20manhã-blue?style=flat-square&logo=github)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-2-m)
+[![tarde](https://img.shields.io/badge/ver%20repositórios-DS%202025%2F2%20tarde-blue?style=flat-square&logo=github)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-2-t)
 
 ## 💡 Dica para treinar lógica de programação
 
