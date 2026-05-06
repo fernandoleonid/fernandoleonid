@@ -18,10 +18,6 @@ Professor da área de tecnologia da informação, atuando em duas área, redes d
 ![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 
-## GITHUB
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=fernandoleonid&theme=dark&background=20232a&ring=61dafb&fire=61dafb&currStreakLabel=61dafb)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandoleonid&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 ## 🎥 YouTube
 [![yt](https://img.shields.io/badge/ver%20repositórios-yt-red?style=flat-square&logo=github)](https://github.com/fernandoleonid?tab=repositories&q=yt)
 
@@ -35,9 +31,6 @@ Professor da área de tecnologia da informação, atuando em duas área, redes d
 
 [![manhã](https://img.shields.io/badge/manhã-0075FF?style=for-the-badge)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-2-m) [![tarde](https://img.shields.io/badge/tarde-FF6600?style=for-the-badge)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-2-t)
 
-## 💡 Dica para treinar lógica de programação
-
-- [Hackerrank](https://www.hackerrank.com/)
-- [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
-- [LeetCode](https://leetcode.com/)
-- [CodeWars](https://www.codewars.com/)
+## GITHUB
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=fernandoleonid&theme=dark&background=20232a&ring=61dafb&fire=61dafb&currStreakLabel=61dafb)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandoleonid&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
