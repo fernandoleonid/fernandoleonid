@@ -29,13 +29,15 @@ Professor da área de tecnologia da informação, atuando em duas área, redes d
 
 **Desenvolvimento de Sistemas 2025 — 1º Semestre**
 
-[![manhã](https://img.shields.io/badge/ver%20repositórios-DS%202025%2F1%20manhã-blue?style=flat-square&logo=github)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-1-m)
-[![tarde](https://img.shields.io/badge/ver%20repositórios-DS%202025%2F1%20tarde-blue?style=flat-square&logo=github)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-1-t)
+[![manhã](https://img.shields.io/badge/ver%20repositórios-DS%202025%2F1%20manhã-0075FF?style=flat-square&logo=github&logoColor=white)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-1-m)
+
+[![tarde](https://img.shields.io/badge/ver%20repositórios-DS%202025%2F1%20tarde-FF6600?style=flat-square&logo=github&logoColor=white)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-1-t)
 
 **Desenvolvimento de Sistemas 2025 — 2º Semestre**
 
-[![manhã](https://img.shields.io/badge/ver%20repositórios-DS%202025%2F2%20manhã-blue?style=flat-square&logo=github)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-2-m)
-[![tarde](https://img.shields.io/badge/ver%20repositórios-DS%202025%2F2%20tarde-blue?style=flat-square&logo=github)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-2-t)
+[![manhã](https://img.shields.io/badge/ver%20repositórios-DS%202025%2F2%20manhã-0075FF?style=flat-square&logo=github&logoColor=white)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-2-m)
+
+[![tarde](https://img.shields.io/badge/ver%20repositórios-DS%202025%2F2%20tarde-FF6600?style=flat-square&logo=github&logoColor=white)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-2-t)
 
 ## 💡 Dica para treinar lógica de programação
 
