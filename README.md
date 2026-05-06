@@ -19,7 +19,7 @@ Professor da área de tecnologia da informação, atuando em duas área, redes d
 ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 
 ## GITHUB
-[![GitHub Streak](https://streak-stats.demolab.com?user=fernandoleonid&theme=dark&background=20232a&ring=61dafb&fire=61dafb&currStreakLabel=61dafb)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=fernandoleonid&theme=dark&background=20232a&ring=61dafb&fire=61dafb&currStreakLabel=61dafb)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandoleonid&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
