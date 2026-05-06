@@ -22,6 +22,11 @@ Professor da área de tecnologia da informação, atuando em duas área, redes d
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=fernandoleonid&theme=dark&background=20232a&ring=61dafb&fire=61dafb&currStreakLabel=61dafb)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandoleonid&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+## 📚 Aulas
+[![Aulas](https://img.shields.io/badge/ver%20repositórios-aulas-blue?style=flat-square&logo=github)](https://github.com/fernandoleonid?tab=repositories&q=aulas)
+
+## 🎥 YouTube
+[![YouTube](https://img.shields.io/badge/ver%20repositórios-youtube-red?style=flat-square&logo=github)](https://github.com/fernandoleonid?tab=repositories&q=youtube)
 
 ## 💡 Dica para treinar lógica de programação
 
