@@ -45,6 +45,10 @@ Atuo com redes, serviços, segurança, cloud, scripts e automação.
 
 [![manhã](https://img.shields.io/badge/manhã-0075FF?style=for-the-badge)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-2-m) [![tarde](https://img.shields.io/badge/tarde-FF6600?style=for-the-badge)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-2-t)
 
+## 📚 Aulas FATEC
+### 1º Semestre de 2026
+[![fatec](https://img.shields.io/badge/Programação_de_sitios_internet-0075FF?style=for-the-badge)](https://github.com/fernandoleonid?tab=repositories&q=fatec)
+
 ## GITHUB
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=fernandoleonid&theme=dark&background=20232a&ring=61dafb&fire=61dafb&currStreakLabel=61dafb)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandoleonid&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
