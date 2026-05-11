@@ -37,13 +37,13 @@ Atuo com redes, serviços, segurança, cloud, scripts e automação.
 
 ## 📚 Aulas SENAI
 
-**Desenvolvimento de Sistemas 2025 — 1º Semestre**
-
-[![manhã](https://img.shields.io/badge/manhã-0075FF?style=for-the-badge)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-1-m) [![tarde](https://img.shields.io/badge/tarde-FF6600?style=for-the-badge)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-1-t)
-
 **Desenvolvimento de Sistemas 2025 — 2º Semestre**
 
 [![manhã](https://img.shields.io/badge/manhã-0075FF?style=for-the-badge)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-2-m) [![tarde](https://img.shields.io/badge/tarde-FF6600?style=for-the-badge)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-2-t)
+
+**Desenvolvimento de Sistemas 2025 — 1º Semestre**
+
+[![manhã](https://img.shields.io/badge/manhã-0075FF?style=for-the-badge)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-1-m) [![tarde](https://img.shields.io/badge/tarde-FF6600?style=for-the-badge)](https://github.com/fernandoleonid?tab=repositories&q=senai-ds-2025-1-t)
 
 ## 📚 Aulas FATEC
 ### 1º Semestre de 2026
